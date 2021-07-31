@@ -1,1 +1,4 @@
-alert("Hello friends!");
+"use strict";
+document.getElementById("github").onclick = function () {
+  alert("Изучил git и github");
+};
